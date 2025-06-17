@@ -1,1 +1,1 @@
-A journey about learning how to learn machines to learn
+A journey about learning how to teach machines to learn
