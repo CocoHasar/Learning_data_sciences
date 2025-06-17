@@ -1,1 +1,1 @@
-Mon projet de DATA Science
+Mon projet de data science
