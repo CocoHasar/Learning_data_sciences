@@ -1,1 +1,1 @@
-Mon projet de data science
+A journey about learning how to learn machines to learn
